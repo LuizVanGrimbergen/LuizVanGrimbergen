@@ -1,44 +1,50 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Luiz+%F0%9F%91%8B;Full+stack+developer;Laravel+%2B+React+%2B+Vue;Open+to+opportunities+in+Sydney" alt="Typing intro" />
-
-**Full stack developer from Antwerp, Belgium.** I build fast, clean web apps with Laravel on the back and React or Vue on the front.
-
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.vangrimbergen@gmail.com)
-
-</div>
-
----
-
-### About me
-
-- 🎓 Graduated **with distinction** in Multimedia & Creative Technology at KdG, Antwerp (2026)
-- 🏆 **Jury prize winner** at Hack The Future, Belgium's big one day hackathon
-- 💼 Full stack internship at **Artcore Society**, shipping production Laravel apps
-- 🤖 Fluent with AI coding tools, but I read and own every line I ship
-- 🌏 **Open to opportunities**, especially in Sydney
-
-### Tech stack
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,ts,js,vue,html,css,tailwind,vite" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,nodejs" />
-
-**Tools & design**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,ps,ai,ae,pr" />
-
-### GitHub stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:F97316&height=200&section=header&text=Luiz%20Van%20Grimbergen&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Full%20stack%20developer%20%C2%B7%20Laravel%20%C2%B7%20React%20%C2%B7%20Vue&descSize=18&descAlignY=56&animation=fadeIn" />
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LuizVanGrimbergen&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=8b949e" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizVanGrimbergen&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=8b949e" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=620&lines=I+turn+ideas+into+shipped+web+apps;Laravel+on+the+back%2C+React+on+the+front;Hackathon+jury+prize+winner+%F0%9F%8F%86;Open+to+opportunities+in+Sydney+%F0%9F%A6%98" alt="Typing intro" />
 
-<img src="https://streak-stats.demolab.com?user=LuizVanGrimbergen&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" />
+[![Email](https://img.shields.io/badge/Say_hi-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.vangrimbergen@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=LuizVanGrimbergen&label=Profile%20views&color=111111&style=for-the-badge)
 
 </div>
+
+### `whoami`
+
+```ts
+const luiz = {
+  role: "Full stack developer",
+  basedIn: "Antwerp, Belgium 🇧🇪",
+  education: "Multimedia & Creative Technology @ KdG, with distinction",
+  experience: ["Full stack intern @ Artcore Society", "Jury prize @ Hack The Future"],
+  loves: ["clean code", "smooth UI", "shipping fast"],
+  aiTools: "fluent, but I read and own every line I ship",
+  openTo: ["full stack roles", "Sydney 🇦🇺"],
+};
+```
+
+### 🧰 Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vue,html,css,tailwind,vite,php,laravel,mysql,sqlite,nodejs,git,github,figma,ps,ai,ae,pr&perline=10" />
+</p>
+
+### 📊 Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuizVanGrimbergen&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=8b949e" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizVanGrimbergen&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=8b949e" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuizVanGrimbergen&bg_color=00000000&color=8b949e&line=F97316&point=ffffff&area=true&area_color=F97316&hide_border=true&title_color=F97316" />
+</p>
+
+### 🐍 Eating my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizVanGrimbergen/LuizVanGrimbergen/output/github-snake-dark.svg" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/LuizVanGrimbergen/LuizVanGrimbergen/output/github-snake.svg" />
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:111111&height=120&section=footer" />
