@@ -29,17 +29,6 @@ const luiz = {
   <img src="https://skillicons.dev/icons?i=react,ts,js,vue,html,css,tailwind,vite,php,laravel,mysql,sqlite,nodejs,git,github,figma,ps,ai,ae,pr&perline=10" />
 </p>
 
-### 📊 Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuizVanGrimbergen&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=8b949e" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizVanGrimbergen&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=8b949e" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuizVanGrimbergen&bg_color=00000000&color=8b949e&line=F97316&point=ffffff&area=true&area_color=F97316&hide_border=true&title_color=F97316" />
-</p>
-
 ### 🐍 Eating my contributions
 
 <picture>
