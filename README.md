@@ -5,23 +5,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=620&lines=I+turn+ideas+into+shipped+web+apps;Laravel+on+the+back%2C+React+on+the+front;Hackathon+jury+prize+winner+%F0%9F%8F%86;Open+to+opportunities+in+Sydney+%F0%9F%A6%98" alt="Typing intro" />
 
 [![Email](https://img.shields.io/badge/Say_hi-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.vangrimbergen@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=LuizVanGrimbergen&label=Profile%20views&color=111111&style=for-the-badge)
 
 </div>
-
-### `whoami`
-
-```ts
-const luiz = {
-  role: "Full stack developer",
-  basedIn: "Antwerp, Belgium 🇧🇪",
-  education: "Multimedia & Creative Technology @ KdG, with distinction",
-  experience: ["Full stack intern @ Artcore Society", "Jury prize @ Hack The Future"],
-  loves: ["clean code", "smooth UI", "shipping fast"],
-  aiTools: "fluent, but I read and own every line I ship",
-  openTo: ["full stack roles", "Sydney 🇦🇺"],
-};
-```
 
 ### 🧰 Toolbox
 
